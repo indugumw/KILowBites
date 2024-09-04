@@ -1,0 +1,9 @@
+Shopping List:
+====================
+chicken: 2.0 pounds
+egg: 1.0
+milk: 3.0 tablespoons
+paprika: 0.5 teaspoons
+pepper: 0.1 teaspoons
+saltine crackers: 1.0 cups
+thyme: 1.0 teaspoons
