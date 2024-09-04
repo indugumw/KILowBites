@@ -1,2 +1,1 @@
-Developed and deployed a GUI-based recipe application in Java using the Scrum framework. Managed a dynamic product backlog with epics, features, and user stories with clear 
-acceptance criteria
+Worked on a team to design, construct, test, and deploy a recipe program KILowBites for the fictitious company KitchIntel. Implemented Scrum through sprint planning, execution, review and retrospective. Practiced Developing sprint and product backlogs, writing epics, features and user stories, and clear creating tasks and acceptance criteria. Also required the creation of GUIs.
